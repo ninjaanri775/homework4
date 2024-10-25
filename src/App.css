@@ -1,0 +1,51 @@
+
+.sunnin {
+  background-color: white;
+  color: black;
+}
+
+.moonin {
+  background-color: #242424;
+  color: white;
+}
+
+
+
+input{
+  background-color: #1a1a1a;
+  border: 1px solid white;
+  width: 200px;
+  height: 30px;
+  margin-right: 20px;
+  border-radius: 10px;
+  text-align: left;
+  color: white;
+}
+
+button{
+  width: 100px;
+  height: 40px;
+  color: white;
+  background-color: #1a1a1a;
+  border-radius: 10px;
+  border: none;
+}
+
+.nightvision{
+  margin-top: 20px;
+}
+
+.todoeings{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.countin{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
